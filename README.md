@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arunpandeyg
+- 👋 Hi, I’m Arun Pandey
 - 👀 I’m interested in ... Java
 - 🌱 I’m currently learning ... JAva Spring Security
 - 💞️ I’m looking to collaborate on ... with my-self
